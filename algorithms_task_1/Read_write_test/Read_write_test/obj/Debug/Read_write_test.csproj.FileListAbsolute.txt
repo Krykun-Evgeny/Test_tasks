@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\bin\Debug\Read_write_test.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\obj\Debug\Read_write_test.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\obj\Debug\Read_write_test.exe
+c:\users\admin\documents\visual studio 2015\Projects\Read_write_test\Read_write_test\obj\Debug\Read_write_test.pdb
+C:\Users\Admin\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe.config
+C:\Users\Admin\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.exe
+C:\Users\Admin\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.pdb
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Resources\input.txt
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe.config
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.pdb
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.exe
+C:\Users\Vlad\Desktop\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.pdb
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe.config
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.exe
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.pdb
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Resources\input.txt
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.exe
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\bin\Debug\Read_write_test.pdb
+C:\Users\Admin\Desktop\softheme\softheme\algorithms_task_1\Read_write_test\Read_write_test\obj\Debug\Read_write_test.csprojResolveAssemblyReference.cache
