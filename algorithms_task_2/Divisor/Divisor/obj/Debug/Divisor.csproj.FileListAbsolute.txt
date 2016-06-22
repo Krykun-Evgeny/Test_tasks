@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\bin\Debug\Divisor.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\bin\Debug\Divisor.exe
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\bin\Debug\Divisor.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\obj\Debug\Divisor.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\obj\Debug\Divisor.exe
+c:\users\admin\documents\visual studio 2015\Projects\Divisor\Divisor\obj\Debug\Divisor.pdb
+C:\Users\Vlad\Desktop\softheme\algorithms_task_2\Divisor\Divisor\bin\Debug\Divisor.exe.config
+C:\Users\Vlad\Desktop\softheme\algorithms_task_2\Divisor\Divisor\obj\Debug\Divisor.exe
+C:\Users\Vlad\Desktop\softheme\algorithms_task_2\Divisor\Divisor\obj\Debug\Divisor.pdb
